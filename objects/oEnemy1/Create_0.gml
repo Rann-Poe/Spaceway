@@ -1,0 +1,10 @@
+state = states.idle;
+actionDur = 0;
+spd = 6;
+distanceTrigger = 500;
+shootDistance = 200;
+strafeSpeed = 5;
+strafeDistance = 120;
+hp = 1;
+randomDir = random_range(0, 360);
+drop = 0;
