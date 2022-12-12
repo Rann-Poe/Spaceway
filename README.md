@@ -1,12 +1,12 @@
 This project is a simple 2D retro space shooter game made in Game Maker Studio 2. I made this during my last year of highschool as a means to learn coding concepts and just as a hobby to do in my free time. All the code was made back in 2020 and is some of the code could definitely be rewritten to be less redundant and to be more in line with industries standards. The code works just fine from what I could find with my play testing of the game and overall for a first coding project, the code isn't all that bad. I did edit the comments in the code before uploading it to here just to make reading through the code a lot easier as high school me did not leave very good comments at all. 
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 What is this game? 
 
 The game Spaceway is a game where you play as a small spaceship trying to survive for as long as you can against astroids and other space ships. There are two different enemies in this game, a samller space ship that moves and shoots faster but does less damage, and a bigger ship that moves and shoots slower but does more damage. The other spaceships are not all that you have to worry about. You'll have to also dodge astroids that fly around and can break into smaller astroids when destroyed. Destroying astroids and spaceships can drop power-ups for you that can temperally make you stronger or can heal you.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Power-Ups:
 
@@ -18,7 +18,7 @@ Power-Ups:
 
 ![221167b3-601c-4450-91a6-8a6e8b96cd5e](https://user-images.githubusercontent.com/120260092/207006646-4ef43058-5502-440f-bc3b-1af976bfba05.png)   The damage up power-up will temporarily cause you to shoot slightly slower, but will make you shots bigger and do double the damage.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Controls: 
 W: Move forward towards the mouse cursor.
@@ -33,7 +33,7 @@ Left Mouse Button: Shoot.
 
 Space: Boost forward.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 You can play it in the browser or download the windows verison of the game from my itch.io page:
 https://rann-poe.itch.io/spaceway
